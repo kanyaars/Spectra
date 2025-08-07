@@ -27,7 +27,6 @@ Kamu cuma perlu masukkan daftar nomor, dan Spectra akan membisikkan siapa yang m
    ```bash
    git clone https://github.com/kanyaars/Spectra.git
    cd Spectra
-``
 
 2. **Install dependensi**
 
