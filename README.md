@@ -1,7 +1,7 @@
 # Spectra
 
-> ⚡ whisper to the numbers, hear who whispers back  
-> **A minimalistic WhatsApp number checker built for the broken, by the broken.**
+> ⚡ bisik ke nomor-nomor itu, lihat siapa yang masih mau jawab  
+> Checker WhatsApp minimalis buat orang-orang rusak, dari yang lebih rusak.
 
 ---
 
