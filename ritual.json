@@ -1,0 +1,49 @@
+{
+  "name": "spectra-prelude",
+  "version": "1.0.0",
+  "description": "whatsapp interface powered by openai — rewritten in the name of chaos, maintained by kanyaars",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "spectra",
+    "kanyaars",
+    "openai",
+    "whatsapp-bot",
+    "baileys",
+    "chaotic-bot",
+    "prelude"
+  ],
+  "author": "kanyaars",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "@whiskeysockets/baileys": "^6.7.16",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^1.3.4",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.46",
+    "openai": "^4.20.1",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "util": "^0.12.4"
+  },
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanyaars/Spectra-Prelude.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kanyaars/Spectra-Prelude/issues"
+  },
+  "homepage": "https://github.com/kanyaars/Spectra-Prelude#readme"
+}
