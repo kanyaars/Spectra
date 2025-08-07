@@ -55,7 +55,8 @@ Spectra/
 ├── pulse.json           ← hasil nomor aktif
 ├── ghost.json           ← hasil nomor non-aktif
 ├── ritual.json          ← package.json versi sesat
-└── whisper.js           ← handler logika
+└── shard/
+    └── whisper.js       ← handler logika
 ```
 
 ---
